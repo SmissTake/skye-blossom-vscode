@@ -7,6 +7,7 @@
 <img src="./assets/preview.png" />
 
 <h1 align="center">:rocket: Installation :rocket:</h1>
+
 1. Open VSCode Extension Panel
 2. Search "SKYE"
 3. Install SKYE Blossom
