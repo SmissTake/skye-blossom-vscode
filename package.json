@@ -3,6 +3,21 @@
     "displayName": "SKYE Blossom",
     "description": "A dark yet vibrant cherry flavored VSCode theme",
     "version": "0.0.1",
+    "icon": "assets/icon.png",
+    "homepage": "https://github.com/Sepshun/skye-blossom-vscode/blob/main/README.md",
+    "bugs": {
+        "url": "https://github.com/Sepshun/skye-blossom-vscode/issues",
+        "email": "sepshuncontact@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Sepshun/skye-blossom-vscode.git"
+    },
+    "galleryBanner": {
+        "color": "#21212c",
+        "theme": "dark"
+    },
+    "license": "LICENSE",
     "engines": {
         "vscode": "^1.65.0"
     },
