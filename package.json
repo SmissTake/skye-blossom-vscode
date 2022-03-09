@@ -1,0 +1,21 @@
+{
+    "name": "skye-blossom",
+    "displayName": "SKYE Blossom",
+    "description": "A dark yet vibrant cherry flavored VSCode theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "SKYE Blossom",
+                "uiTheme": "vs-dark",
+                "path": "./themes/SKYE Blossom-color-theme.json"
+            }
+        ]
+    }
+}
