@@ -1980,7 +1980,7 @@
     "panelTitle.inactiveForeground": "#8a8aa8",
     "badge.background": "#f86797",
     "badge.foreground": "#ffffff",
-    "terminal.foreground": "#8a8aa8",
+    "terminal.foreground": "#d3d3de",
     "terminal.selectionBackground": "#8a8aa840",
     "terminalCursor.background": "#f86797",
     "terminalCursor.foreground": "#ffffff",
