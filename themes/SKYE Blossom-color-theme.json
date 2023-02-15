@@ -2039,7 +2039,7 @@
     "notificationCenterHeader.foreground": "#d3d3de",
     "notificationCenterHeader.background": "#181820",
     "notifications.border": "#181820",
-    "gitDecoration.addedResourceForeground": "#c8f26d",
+    "gitDecoration.addedResourceForeground": "#81b88b",
     "gitDecoration.conflictingResourceForeground": "#b188fb",
     "gitDecoration.deletedResourceForeground": "#f0777d",
     "gitDecoration.ignoredResourceForeground": "#8c8c8c",
